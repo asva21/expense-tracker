@@ -1,0 +1,4 @@
+.streamlit/secrets.toml
+expenses.xlsx
+__pycache__/
+*.pyc
