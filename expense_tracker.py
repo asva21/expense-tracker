@@ -60,7 +60,7 @@ def add_expense(expense_date, category, description, amount):
 
 def delete_expense(row_index):
     ws = get_worksheet()
-    ws.delete_rows(row_index + 2)  # +2 for header row and 0-indexing
+    ws.delete_rows(int(row_index) + 2)  # +2 for header row and 0-indexing
 
 
 def main():
