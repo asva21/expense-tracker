@@ -13,7 +13,7 @@ CATEGORIES = [
     "Entertainment",
     "Shopping",
     "Healthcare",
-    "Hair & Skin Care"
+    "Hair & Skin Care",
     "Education",
     "Travel",
     "Subscriptions",
