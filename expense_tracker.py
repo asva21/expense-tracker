@@ -7,6 +7,7 @@ import gspread
 CATEGORIES = [
     "Groceries",
     "Food & Dining",
+    "Snacks",
     "Transportation",
     "Housing & Rent",
     "Utilities",
